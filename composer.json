@@ -1,0 +1,17 @@
+{
+  "name": "hyperuix/wp-updater",
+  "description": "Hyperuix Wordpress Notifier monitors your WordPress installation for core, plugin and theme updates and emails you when they are available.",
+  "homepage": "https://github.com/hyperuix/hyperuix-wp-updater",
+  "license": "GPL3",
+  "authors": [
+    {
+      "name": "Hyperuix",
+      "email": "support@hyperuix.com.au",
+      "homepage": "https://www.hyperuix.com.au/"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=7.4"
+  }
+}
