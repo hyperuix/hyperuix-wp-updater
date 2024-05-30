@@ -18,11 +18,11 @@ As part of our commitment at HYPERUIX to keep your website secure we have comple
 <hr style="margin: 20px 0; border: 0; border-bottom: 1px dotted #eee;" />
 
 <p>It's important to keep your website up to date to ensure known security vulnerabilities are patched and secured.</p>
-<p>If you would like us to update and patch your website to keep it secure, please contact your Pivotal Agency account manager (or simply reply to this email) and we'll get it organised for you.</p>
+<p>If you would like us to update and patch your website to keep it secure, please contact us (by simply replying to this email) and we'll get it organised for you.</p>
 
 <p>Kind regards,<br />
 <a href="https://hyperuix.com.au" style="color: #c9fc01;">HYPERUIX</a></p>
 
-<p><img src="https://stage.hyperuix.com.au/app/uploads/2024/03/logo.png" style="width: 130px; height: auto;" /></p>
+<p><img src="https://staging.hyperuix.com.au/app/uploads/2024/03/logo.png" style="width: 130px; height: auto;" /></p>
 </body>
 </html>
